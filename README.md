@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Mufaro 👋
 
 <!--
 **RBHNirvana/RBHNirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+(He/Him)
+
+I am an undegraduate computer science student at the University of Toronto who plans to slowly take over the world through the usage of secretly programmed marshmellows.

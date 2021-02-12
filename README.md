@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 (He/Him)
 
-I am an undegraduate computer science student at the University of Toronto who plans to slowly take over the world through the usage of secretly programmed marshmellows.
-I hope to eventually get my dream job of becoming a software developer who specializes in the video game industry.
+I am an undegraduate computer science student and I hope to eventually get my dream job of becoming a software developer.

@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 (He/Him)
 
-I am an undegraduate computer science student and I hope to eventually achieve dream job of becoming a software developer.
+I am an undegraduate software engineering student and I hope to eventually achieve dream job of becoming a software developer.
